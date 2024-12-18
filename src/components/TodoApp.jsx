@@ -102,7 +102,7 @@ const TodoApp = () => {
                   >
                     Edit
                   </button>
-                )}
+                )} 
                 <button
                   onClick={() => handleDeleteTodo(todo.id)}
                   className="bg-red-500 text-white px-2 rounded hover:bg-red-600"
