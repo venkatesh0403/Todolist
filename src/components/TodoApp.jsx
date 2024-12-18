@@ -118,7 +118,7 @@ const TodoApp = () => {
       
       <footer className="bg-white text-center py-4 w-full">
         <p className="text-gray-700">
-          Copyright © {new Date().getFullYear()} Dhanya K. R
+          Copyright © {new Date().getFullYear()} Venkatesh S
         </p>
       </footer>
     </div>
